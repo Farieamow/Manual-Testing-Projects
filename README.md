@@ -21,13 +21,13 @@ The project includes a collection of test cases covering different aspects of th
 
 ### Test Execution
 
-The test cases are executed using [insert testing framework/tool here], and the results are documented for analysis and review. Any issues or bugs encountered during testing are reported and addressed promptly to ensure the website's smooth operation.
+The test cases are executed using Manual Testing, and the results are documented for analysis and review. Any issues or bugs encountered during testing are reported and addressed promptly to ensure the website's smooth operation.
 
 ### Test Environment
 
 - **Browsers:** Chrome, Firefox, Safari
 - **Devices:** Desktop, Tablet, Mobile
-- **Testing Framework:** [Specify testing framework/tool]
+- **Testing Framework:** Manual Testing
 
 ## Contributing
 
@@ -43,5 +43,5 @@ This project is currently in progress. Check back regularly for updates on testi
 
 ## Contact
 
-For any inquiries or further information about the Yellow Clothing Website Testing Project, please contact [insert contact information here].
+For any inquiries or further information about the Yellow Clothing Website Testing Project, please contact [farieamow304@gmail.com].
 
