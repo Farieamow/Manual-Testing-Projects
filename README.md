@@ -33,10 +33,6 @@ The test cases are executed using Manual Testing, and the results are documented
 
 Contributions to the Yellow Clothing Website Testing Project are welcome! If you find any issues or bugs during testing or have suggestions for improving the testing process, feel free to open an issue or submit a pull request.
 
-## Reporting Issues
-
-If you encounter any issues or bugs while testing the Yellow Clothing website, please report them in the [Issues](link to issues) section of this repository. Be sure to include detailed information about the problem and steps to reproduce it.
-
 ## Project Status
 
 This project is currently in progress. Check back regularly for updates on testing activities, results, and improvements made to the Yellow Clothing website.
